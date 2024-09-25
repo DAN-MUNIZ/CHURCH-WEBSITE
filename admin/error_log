@@ -1,0 +1,109 @@
+[25-Mar-2024 15:56:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/admin/header.php(3): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/admin/index.php(1): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:17:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(2): include('/home/qrzyqcto/...')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:30:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(2): include('/home/qrzyqcto/...')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:32:44 UTC] PHP Warning:  include(idiorm.php): Failed to open stream: No such file or directory in /home/qrzyqcto/public_html/admin/connect.php on line 8
+[25-Mar-2024 16:32:44 UTC] PHP Warning:  include(): Failed opening 'idiorm.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/qrzyqcto/public_html/admin/connect.php on line 8
+[25-Mar-2024 16:32:44 UTC] PHP Fatal error:  Uncaught Error: Class "ORM" not found in /home/qrzyqcto/public_html/admin/connect.php:10
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(2): include()
+#1 {main}
+  thrown in /home/qrzyqcto/public_html/admin/connect.php on line 10
+[25-Mar-2024 16:33:17 UTC] PHP Warning:  include(idiorm.php): Failed to open stream: No such file or directory in /home/qrzyqcto/public_html/admin/connect.php on line 8
+[25-Mar-2024 16:33:17 UTC] PHP Warning:  include(): Failed opening 'idiorm.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/qrzyqcto/public_html/admin/connect.php on line 8
+[25-Mar-2024 16:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "ORM" not found in /home/qrzyqcto/public_html/admin/connect.php:10
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(2): include()
+#1 {main}
+  thrown in /home/qrzyqcto/public_html/admin/connect.php on line 10
+[25-Mar-2024 16:34:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:15
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(15): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 15
+[25-Mar-2024 16:34:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:15
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(15): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 15
+[25-Mar-2024 17:53:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:15
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(15): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 15
+[25-Mar-2024 17:54:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:15
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(15): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 15
+[25-Mar-2024 21:58:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:15
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(15): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 15
+[25-Mar-2024 22:16:04 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/qrzyqcto/public_html/admin/process_login.php on line 9
+[25-Mar-2024 22:16:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:13
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(13): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 13
+[25-Mar-2024 22:17:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_real_escape_string(): Argument #1 ($mysql) must be of type mysqli, null given in /home/qrzyqcto/public_html/admin/process_login.php:15
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/process_login.php(15): mysqli_real_escape_string(NULL, 'Dvniel')
+#1 /home/qrzyqcto/public_html/admin/process_login.php(19): clean('Dvniel')
+#2 {main}
+  thrown in /home/qrzyqcto/public_html/admin/process_login.php on line 15
+[01-Apr-2024 21:52:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/qrzyqcto/public_html/admin/header.php on line 4
+[01-Apr-2024 21:52:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qrzyqcto/public_html/admin/all-notices.php:1) in /home/qrzyqcto/public_html/admin/header.php on line 6
+[01-Apr-2024 21:53:21 UTC] PHP Warning:  include(./admin/header.php): Failed to open stream: No such file or directory in /home/qrzyqcto/public_html/admin/all-notices.php on line 2
+[01-Apr-2024 21:53:21 UTC] PHP Warning:  include(): Failed opening './admin/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/qrzyqcto/public_html/admin/all-notices.php on line 2
+[01-Apr-2024 21:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get() in /home/qrzyqcto/public_html/admin/all-notices.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/admin/all-notices.php on line 9
+[01-Apr-2024 21:53:42 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/qrzyqcto/public_html/admin/header.php on line 4
+[01-Apr-2024 21:53:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qrzyqcto/public_html/admin/all-notices.php:1) in /home/qrzyqcto/public_html/admin/header.php on line 6
+[01-Apr-2024 22:06:23 UTC] PHP Parse error:  syntax error, unexpected identifier "file", expecting "," or ";" in /home/qrzyqcto/public_html/admin/all-news.php on line 105
+[02-Apr-2024 05:07:57 UTC] PHP Warning:  Undefined variable $get_EQ_requests_tbl in /home/qrzyqcto/public_html/admin/equipment_requests.php on line 46
+[02-Apr-2024 05:07:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/qrzyqcto/public_html/admin/equipment_requests.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/admin/equipment_requests.php on line 46
+[02-Apr-2024 05:13:21 UTC] PHP Warning:  Undefined variable $get_EQ_requests_tbl in /home/qrzyqcto/public_html/admin/equipment_requests.php on line 46
+[02-Apr-2024 05:13:21 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/qrzyqcto/public_html/admin/equipment_requests.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/admin/equipment_requests.php on line 46
+[02-Apr-2024 05:31:54 UTC] PHP Warning:  Undefined array key "equipment list" in /home/qrzyqcto/public_html/admin/equipment_requests.php on line 115
+[02-Apr-2024 19:34:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function countNewMessages() in /home/qrzyqcto/public_html/admin/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/admin/index.php on line 18
+[08-Apr-2024 01:29:30 UTC] PHP Warning:  include(idiorm.php): Failed to open stream: No such file or directory in /home/qrzyqcto/public_html/admin/connect.php on line 8
+[08-Apr-2024 01:29:30 UTC] PHP Warning:  include(): Failed opening 'idiorm.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/qrzyqcto/public_html/admin/connect.php on line 8
+[08-Apr-2024 01:29:30 UTC] PHP Fatal error:  Uncaught Error: Class "ORM" not found in /home/qrzyqcto/public_html/admin/connect.php:10
+Stack trace:
+#0 /home/qrzyqcto/public_html/admin/fetch_filtered_data.php(5): include()
+#1 {main}
+  thrown in /home/qrzyqcto/public_html/admin/connect.php on line 10

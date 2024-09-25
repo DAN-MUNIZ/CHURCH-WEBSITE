@@ -1,0 +1,753 @@
+[25-Mar-2024 15:54:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:54:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:54:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:55:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:55:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:55:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:55:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:57:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 15:58:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:00:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:01:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:09:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:14:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:19:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 16:27:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 17:58:50 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 18:17:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 18:18:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 18:19:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 18:25:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 18:26:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 19:08:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:04:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:37:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:41:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:41:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:41:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:41:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:41:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 20:41:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 21:31:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1044] Access denied for user 'qrzyqcto_MUN1Z'@'localhost' to database 'qrzyqcto_church_db' in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Mar-2024 21:38:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/qrzyqcto/public_html/program-detail.php on line 118
+[25-Mar-2024 21:39:55 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/qrzyqcto/public_html/program-detail.php on line 118
+[25-Mar-2024 21:40:30 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/qrzyqcto/public_html/program-detail.php on line 118
+[25-Mar-2024 21:40:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/qrzyqcto/public_html/program-detail.php on line 118
+[25-Mar-2024 21:41:54 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/qrzyqcto/public_html/program-detail.php on line 118
+[26-Mar-2024 11:17:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/notice-detail.php(39): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 11:23:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/program-detail.php(1): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 11:30:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/idiorm.php:328
+Stack trace:
+#0 /home/qrzyqcto/public_html/idiorm.php(328): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****', NULL)
+#1 /home/qrzyqcto/public_html/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/qrzyqcto/public_html/cell_group.php(134): ORM::for_table('cell_groups')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/idiorm.php on line 328
+[26-Mar-2024 12:01:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/idiorm.php:328
+Stack trace:
+#0 /home/qrzyqcto/public_html/idiorm.php(328): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****', NULL)
+#1 /home/qrzyqcto/public_html/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/qrzyqcto/public_html/notices.php(100): ORM::for_table('notices')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/idiorm.php on line 328
+[26-Mar-2024 12:01:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[26-Mar-2024 12:01:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/notices.php(3): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[26-Mar-2024 12:01:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/events.php(3): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 12:01:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/idiorm.php:328
+Stack trace:
+#0 /home/qrzyqcto/public_html/idiorm.php(328): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****', NULL)
+#1 /home/qrzyqcto/public_html/idiorm.php(311): ORM::_setup_db('default')
+#2 /home/qrzyqcto/public_html/events.php(100): ORM::for_table('events')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/idiorm.php on line 328
+[26-Mar-2024 12:01:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[26-Mar-2024 12:01:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/news-updates.php(1): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[26-Mar-2024 12:01:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[26-Mar-2024 12:01:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/news-updates.php(1): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[26-Mar-2024 12:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/news_post.php(39): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 12:01:13 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[26-Mar-2024 12:01:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/Bible Study.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[26-Mar-2024 12:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/Bible Study.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 12:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/notice-detail.php(39): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 12:01:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/notice-detail.php(39): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Mar-2024 12:01:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[26-Mar-2024 12:01:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/program-detail.php(1): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[27-Mar-2024 09:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[28-Mar-2024 07:58:03 UTC] PHP Warning:  Undefined array key "programme_id" in /home/qrzyqcto/public_html/program-detail.php on line 99
+[28-Mar-2024 08:01:43 UTC] PHP Warning:  Undefined variable $row in /home/qrzyqcto/public_html/cell_group.php on line 82
+[28-Mar-2024 08:01:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/cell_group.php on line 82
+[28-Mar-2024 08:03:50 UTC] PHP Warning:  Undefined variable $row in /home/qrzyqcto/public_html/cell_group.php on line 82
+[28-Mar-2024 08:03:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/cell_group.php on line 82
+[28-Mar-2024 08:06:04 UTC] PHP Warning:  Undefined variable $row in /home/qrzyqcto/public_html/cell_group.php on line 82
+[28-Mar-2024 08:06:04 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/cell_group.php on line 82
+[28-Mar-2024 09:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[28-Mar-2024 16:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[31-Mar-2024 13:00:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[31-Mar-2024 14:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[01-Apr-2024 08:18:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[02-Apr-2024 05:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[05-Apr-2024 07:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[05-Apr-2024 22:48:12 UTC] PHP Warning:  Undefined array key "name" in /home/qrzyqcto/public_html/contact-form-handler.php on line 14
+[05-Apr-2024 22:48:12 UTC] PHP Warning:  Undefined array key "email" in /home/qrzyqcto/public_html/contact-form-handler.php on line 15
+[05-Apr-2024 22:48:12 UTC] PHP Warning:  Undefined array key "message" in /home/qrzyqcto/public_html/contact-form-handler.php on line 16
+[05-Apr-2024 23:55:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mail() in /home/qrzyqcto/public_html/contact-form-handler.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/contact-form-handler.php on line 35
+[06-Apr-2024 23:30:53 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/qrzyqcto/public_html/events.php on line 177
+[06-Apr-2024 23:35:12 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/qrzyqcto/public_html/notices.php on line 165
+[08-Apr-2024 01:49:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[14-Apr-2024 00:06:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[15-Apr-2024 22:22:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[22-Apr-2024 15:43:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[22-Apr-2024 15:43:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[27-Apr-2024 06:03:07 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[27-Apr-2024 06:03:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/media_equipment_request_form.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[02-May-2024 14:28:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[07-May-2024 20:18:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[10-May-2024 17:21:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-May-2024 22:26:59 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[31-May-2024 13:32:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[31-May-2024 13:32:46 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[01-Jun-2024 16:53:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[03-Jun-2024 18:07:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[03-Jun-2024 18:07:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[03-Jun-2024 18:07:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[05-Jun-2024 03:53:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[05-Jun-2024 07:09:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[07-Jun-2024 08:22:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[09-Jun-2024 05:45:34 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/qrzyqcto/public_html/prayer_docs.php on line 104
+[12-Jun-2024 07:38:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[12-Jun-2024 11:20:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[14-Jun-2024 17:20:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $sermons in /home/qrzyqcto/public_html/sermons.php on line 72
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/qrzyqcto/public_html/sermons.php on line 72
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 10:20:44 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 10:21:39 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 10:21:39 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 10:21:39 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 10:21:39 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 10:21:39 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 10:21:39 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 10:25:41 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 10:25:41 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 10:25:41 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 10:25:41 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 10:25:41 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 10:25:41 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 10:46:04 UTC] PHP Warning:  Undefined array key "news_title" in /home/qrzyqcto/public_html/sermons.php on line 102
+[17-Jun-2024 10:46:04 UTC] PHP Warning:  Undefined array key "news_detail" in /home/qrzyqcto/public_html/sermons.php on line 106
+[17-Jun-2024 11:25:41 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 11:27:21 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 118
+[17-Jun-2024 11:37:35 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:37:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:37:35 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 116
+[17-Jun-2024 11:37:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 116
+[17-Jun-2024 11:38:42 UTC] PHP Warning:  Undefined variable $sermons in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:38:42 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 116
+[17-Jun-2024 11:38:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 116
+[17-Jun-2024 11:39:33 UTC] PHP Warning:  Undefined variable $sermons in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:39:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:39:33 UTC] PHP Warning:  Undefined variable $doc in /home/qrzyqcto/public_html/sermon_post.php on line 115
+[17-Jun-2024 11:39:33 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 116
+[17-Jun-2024 11:39:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 116
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $sermons in /home/qrzyqcto/public_html/sermons.php on line 72
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/qrzyqcto/public_html/sermons.php on line 72
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 11:42:59 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $sermons in /home/qrzyqcto/public_html/sermons.php on line 72
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/qrzyqcto/public_html/sermons.php on line 72
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 121
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $lastpage in /home/qrzyqcto/public_html/sermons.php on line 135
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 11:43:37 UTC] PHP Warning:  Undefined variable $next in /home/qrzyqcto/public_html/sermons.php on line 138
+[17-Jun-2024 11:56:02 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 11:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 11:56:02 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:56:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:56:02 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 119
+[17-Jun-2024 11:58:54 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 11:58:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 11:58:54 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:58:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 11:58:54 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 119
+[17-Jun-2024 12:01:52 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 12:01:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 12:01:52 UTC] PHP Warning:  Undefined variable $sermon in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 12:01:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 12:01:52 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 119
+[17-Jun-2024 12:03:15 UTC] PHP Parse error:  syntax error, unexpected identifier "doc" in /home/qrzyqcto/public_html/sermon_post.php on line 113
+[17-Jun-2024 12:03:36 UTC] PHP Warning:  Undefined variable $file_path in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 12:03:36 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 12:48:10 UTC] PHP Warning:  Undefined variable $file_path in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 12:48:10 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 21:37:55 UTC] PHP Warning:  Undefined variable $file_path in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 21:37:55 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 21:37:57 UTC] PHP Warning:  Undefined variable $file_path in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[17-Jun-2024 21:37:57 UTC] PHP Warning:  Undefined variable $sermon_title in /home/qrzyqcto/public_html/sermon_post.php on line 114
+[18-Jun-2024 22:58:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/qrzyqcto/public_html/gallery.php on line 145
+[19-Jun-2024 11:26:26 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[19-Jun-2024 11:26:26 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/news_post.php(39): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[19-Jun-2024 12:11:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/gallery.php(1): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[25-Jun-2024 05:38:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Jun-2024 12:19:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[26-Jun-2024 12:24:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[30-Jun-2024 10:05:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[11-Jul-2024 09:55:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[14-Jul-2024 09:21:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[14-Jul-2024 09:21:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[14-Jul-2024 11:39:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[15-Jul-2024 07:31:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[16-Jul-2024 21:58:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[17-Jul-2024 21:04:03 UTC] PHP Warning:  mysqli_connect(): (08004/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[17-Jul-2024 21:04:03 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[17-Jul-2024 21:04:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[17-Jul-2024 22:44:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[17-Jul-2024 22:44:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[17-Jul-2024 22:44:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[02-Aug-2024 10:00:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/notice-detail.php(40): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[02-Aug-2024 18:33:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[02-Aug-2024 18:33:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[02-Aug-2024 18:33:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[10-Aug-2024 19:13:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/qrzyqcto/public_html/connect.php on line 16
+[10-Aug-2024 19:13:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_select_db(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/qrzyqcto/public_html/connect.php:17
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(17): mysqli_select_db(false, 'qrzyqcto_church...')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/notices.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 17
+[16-Aug-2024 12:17:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/qrzyqcto/public_html/connect.php:14
+Stack trace:
+#0 /home/qrzyqcto/public_html/connect.php(14): PDO->__construct('mysql:host=loca...', 'qrzyqcto_MUN1Z', 'Mun1z**/01/****')
+#1 /home/qrzyqcto/public_html/header.php(2): include('/home/qrzyqcto/...')
+#2 /home/qrzyqcto/public_html/index.php(2): include('/home/qrzyqcto/...')
+#3 {main}
+  thrown in /home/qrzyqcto/public_html/connect.php on line 14
+[21-Sep-2024 11:18:48 UTC] PHP Warning:  Undefined variable $db in /home/qrzyqcto/public_html/footer.php on line 10
+[21-Sep-2024 11:18:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/qrzyqcto/public_html/footer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/qrzyqcto/public_html/footer.php on line 10
